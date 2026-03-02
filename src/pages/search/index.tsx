@@ -5,5 +5,5 @@ export default function Page() {
   const router = useRouter();
 
   const { q } = router.query;
-  return <div>Search{q}</div>;
+  return <h1>Search{q}</h1>;
 }
