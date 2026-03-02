@@ -33,3 +33,8 @@ reactStrictMode false로 바꿔주기
 ## API Routes
 
 API 구축할 수 있도록 해주는 기능
+
+## 스타일링
+
+1. css파일의 이름을 index.module.css처럼 .module 추가해서 네이밍
+2. index.tsx파일에서 className={style.h1} 처럼 해서 적용하기
