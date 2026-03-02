@@ -25,3 +25,7 @@ reactStrictMode false로 바꿔주기
 
 - Link 컴포넌트로 CSR방식의 link 생성
 - Programmatic Navigation: 특정 버튼 클릭하거나 특정 조건 만족햇을 시 이동
+
+## Pre-fetching(프리패칭)
+
+현재 사용자가 보고 있는 웹 페이지에서, 이동할 수 있는 가능성 있는 모든 페이지의 JS 코드를 미리 불러와놓는 과정
