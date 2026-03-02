@@ -20,3 +20,8 @@ reactStrictMode false로 바꿔주기
 
 1.  global.css 다 지우기, Home.module.css 파일 삭제하기, index.tsx 다 지우기
 2.  query string: useRouter() 사용하기
+
+## 네비게이팅
+
+- Link 컴포넌트로 CSR방식의 link 생성
+- Programmatic Navigation: 특정 버튼 클릭하거나 특정 조건 만족햇을 시 이동
