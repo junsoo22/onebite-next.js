@@ -29,3 +29,7 @@ reactStrictMode false로 바꿔주기
 ## Pre-fetching(프리패칭)
 
 현재 사용자가 보고 있는 웹 페이지에서, 이동할 수 있는 가능성 있는 모든 페이지의 JS 코드를 미리 불러와놓는 과정
+
+## API Routes
+
+API 구축할 수 있도록 해주는 기능
